@@ -1,0 +1,10 @@
+streamlit
+fastapi
+uvicorn[standard]
+pydantic>=2
+Pillow
+pandas
+numpy
+scikit-learn
+python-multipart
+requests
